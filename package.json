@@ -7,5 +7,9 @@
   "type": "library",
   "author": {
     "name": "Joe Gatling"
+  },
+  "dependencies": {
+    "com.unity.ugui": "2.0.0",
+    "com.unity.inputsystem": "1.18.0"
   }
 }
