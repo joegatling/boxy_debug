@@ -1,0 +1,11 @@
+{
+  "name": "com.joegatling.boxy-debug",
+  "version": "0.1.0",
+  "displayName": "Boxy Debug",
+  "description": "A simple debug overlay for Unity projects",
+  "unity": "2021.3",
+  "type": "library",
+  "author": {
+    "name": "Joe Gatling"
+  }
+}
