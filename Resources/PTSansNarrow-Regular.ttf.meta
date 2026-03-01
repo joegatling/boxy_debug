@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 097c8c53fdf4d427d877b23b1bb98ebd
+guid: 344270c8ee24f4d759caab406cf085ca
 TrueTypeFontImporter:
   externalObjects: {}
   serializedVersion: 4
@@ -9,7 +9,7 @@ TrueTypeFontImporter:
   characterPadding: 1
   includeFontData: 1
   fontNames:
-  - MintSans
+  - PT Sans Narrow
   fallbackFontReferences: []
   customCharacters: 
   fontRenderingMode: 0
