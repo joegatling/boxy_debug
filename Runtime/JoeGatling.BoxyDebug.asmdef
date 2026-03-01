@@ -1,7 +1,10 @@
 {
     "name": "JoeGatling.BoxyDebug",
     "rootNamespace": "JoeGatling.BoxyDebug",
-    "references": [],
+    "references": [
+        "Unity.TextMeshPro",
+        "Unity.InputSystem"
+    ],
     "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,

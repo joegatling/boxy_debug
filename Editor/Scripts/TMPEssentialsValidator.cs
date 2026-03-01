@@ -5,15 +5,15 @@ using UnityEngine;
 namespace JoeGatling.BoxyDebug
 {
     [InitializeOnLoad]
-    public static class BoxyDebugValidator
+    public static class TMPValidation
     {
-        static BoxyDebugValidator()
+        static TMPValidation()
         {
-            if (!AssetDatabase.IsValidFolder("Assets/BoxyDebug"))
+            if (!AssetDatabase.IsValidFolder("Assets/TextMesh Pro"))
             {
                 Debug.LogWarning(
-                    "Boxy Debug is not installed. " +
-                    "Go to Window > Package Manager and install the Boxy Debug package."
+                    "TextMesh Pro Essentials are not installed. " +
+                    "Go to Window > TextMeshPro > Import TMP Essential Resources."
                 );
             }
         }
